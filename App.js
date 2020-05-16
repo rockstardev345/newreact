@@ -31,9 +31,9 @@ const styles = StyleSheet.create({
     width:100,
   },
   redcontainer:{
-    backgroundColor: '#e74c3c',
+    backgroundColor: '#95a5a6',
     height:100,
-    width:400,
+    width:200,
   }
 
 });
